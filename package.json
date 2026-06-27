@@ -5,8 +5,8 @@
   "author": "",
   "private": false,
   "license": "UNLICENSED",
-    "main": "dist/index.js",
-  "types": "dist/index.d.ts",
+    "main": "dist/event-bus/index.js",
+  "types": "dist/event-bus/index.d.ts",
   "files": [
     "dist"
   ],
