@@ -3,7 +3,7 @@
   "version": "1.0.0",
   "description": "",
   "author": "",
-  "private": true,
+  "private": false,
   "license": "UNLICENSED",
     "main": "dist/index.js",
   "types": "dist/index.d.ts",
@@ -13,6 +13,7 @@
 
   "scripts": {
     "build": "nest build",
+    "prepack": "npm run build",
     "format": "prettier --write \"src/**/*.ts\" \"test/**/*.ts\"",
     "start": "nest start",
     "start:dev": "nest start --watch",
