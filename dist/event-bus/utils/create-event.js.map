@@ -1,0 +1,1 @@
+{"version":3,"file":"create-event.js","sourceRoot":"","sources":["../../../src/event-bus/utils/create-event.ts"],"names":[],"mappings":";;AAEA,kCASC;AAXD,+BAAkC;AAElC,SAAgB,WAAW,CAAC,SAAiB,EAAE,MAAc,EAAE,IAAS;IACtE,OAAO;QACL,OAAO,EAAE,IAAA,SAAI,GAAE;QACf,SAAS;QACT,MAAM;QACN,SAAS,EAAE,IAAI,IAAI,EAAE,CAAC,WAAW,EAAE;QACnC,UAAU,EAAE,CAAC;QACb,IAAI;KACL,CAAC;AACJ,CAAC"}
